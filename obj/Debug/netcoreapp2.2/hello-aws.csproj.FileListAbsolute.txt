@@ -1,0 +1,14 @@
+/var/www/hello-aws/bin/Debug/netcoreapp2.2/hello-aws.deps.json
+/var/www/hello-aws/bin/Debug/netcoreapp2.2/hello-aws.runtimeconfig.json
+/var/www/hello-aws/bin/Debug/netcoreapp2.2/hello-aws.runtimeconfig.dev.json
+/var/www/hello-aws/bin/Debug/netcoreapp2.2/hello-aws.dll
+/var/www/hello-aws/bin/Debug/netcoreapp2.2/hello-aws.pdb
+/var/www/hello-aws/obj/Debug/netcoreapp2.2/hello-aws.csprojAssemblyReference.cache
+/var/www/hello-aws/obj/Debug/netcoreapp2.2/hello-aws.csproj.CoreCompileInputs.cache
+/var/www/hello-aws/obj/Debug/netcoreapp2.2/hello-aws.RazorAssemblyInfo.cache
+/var/www/hello-aws/obj/Debug/netcoreapp2.2/hello-aws.RazorAssemblyInfo.cs
+/var/www/hello-aws/obj/Debug/netcoreapp2.2/hello-aws.AssemblyInfoInputs.cache
+/var/www/hello-aws/obj/Debug/netcoreapp2.2/hello-aws.AssemblyInfo.cs
+/var/www/hello-aws/obj/Debug/netcoreapp2.2/hello-aws.RazorTargetAssemblyInfo.cache
+/var/www/hello-aws/obj/Debug/netcoreapp2.2/hello-aws.dll
+/var/www/hello-aws/obj/Debug/netcoreapp2.2/hello-aws.pdb
